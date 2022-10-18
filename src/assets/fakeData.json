@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone XL",
+      "description": "Big smartphone",
+      "price": 1000,
+      "image": "assets/images/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Phone Mini",
+      "description": "Little smartphone",
+      "price": 500,
+      "image": "assets/images/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Phone Standard",
+      "description": "Standard smartphone",
+      "price": 750,
+      "image": "assets/images/3.png"
+    }
+  ]
+}
